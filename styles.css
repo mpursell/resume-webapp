@@ -2,6 +2,7 @@ body {
     background-color: rgb(41, 39, 39);
     color: rgb(197, 196, 196);
     text-emphasis-color: white;
+    list-style-type: circle;
 }
 
 h3 {
