@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(41, 39, 39)
+    background-color: rgb(41, 39, 39);
+    color: rgb(197, 196, 196);
+    text-emphasis-color: white;
 }
 
 h3 {
