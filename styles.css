@@ -3,5 +3,6 @@ body {
 }
 
 h3 {
-    color: rgb(197, 196, 196)
+    color: rgb(197, 196, 196);
+    text-emphasis-color: white;
 }
