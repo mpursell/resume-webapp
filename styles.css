@@ -22,9 +22,13 @@ ul li::marker {
     color: #00ff40
 }
 
-.certifictions {}
+.certifictions {
+    padding: 0px;
+}
 
-.certifictions_item {}
+.certifictions_item {
+    padding: 0px;
+}
 
 .certifictions img {
     display: block;
@@ -43,7 +47,7 @@ ul li::marker {
     width: 1000px;
     height: 800px;
     top: 0;
-    left: 50%;
+    left: 0;
     bottom: 0;
     right: 0;
     margin: auto;
