@@ -34,7 +34,7 @@ ul li::marker {
     width: 1000px;
     height: 800px;
     top: 0;
-    left: 0;
+    left: 200px;
     bottom: 0;
     right: 0;
     margin: auto;
