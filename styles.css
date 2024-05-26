@@ -25,6 +25,7 @@ ul li::marker {
 
 .certifictions_item {
     padding: 0px;
+    width: 100px;
 }
 
 .certifictions img {
