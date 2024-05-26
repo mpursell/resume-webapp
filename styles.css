@@ -2,11 +2,6 @@ body {
     background-color: rgb(41, 39, 39);
     color: #ececec;
     list-style-type: circle;
-}
-
-body.em {
-    text-emphasis-color: #237fe9;
-    text-emphasis-style: "*";
     font-family: monospace;
 }
 
