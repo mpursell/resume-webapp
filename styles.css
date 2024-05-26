@@ -22,6 +22,15 @@ ul li::marker {
     color: #00ff40
 }
 
+.certifictions {}
+
+.certifictions_item {}
+
+.certifictions img {
+    display: block;
+    width: 100px;
+}
+
 #parentcontainer {
     position: relative;
     width: 1200px;
