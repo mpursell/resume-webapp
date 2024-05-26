@@ -5,7 +5,7 @@ body {
 }
 
 body.em {
-    text-emphasis-color: white;
+    text-emphasis-color: #237fe9;
     text-emphasis-style: "*";
 }
 
@@ -24,15 +24,17 @@ ul li::marker {
 
 #parentcontainer {
     position: relative;
-    width: 800px;
-    height: 1000px;
+    width: 1500px;
+    height: 3000px;
 }
 
 #childcontainer {
     position: absolute;
-    width: 600px;
-    height: 800px;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    width: 1000px;
+    height: 2000px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
 }
