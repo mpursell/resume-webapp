@@ -19,6 +19,10 @@ ul li::marker {
     color: #00ff40
 }
 
+ul li.technical_skills {
+    color: #f77a06
+}
+
 .certifications {
     width: 2000px;
     overflow: hidden;
