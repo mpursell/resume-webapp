@@ -41,10 +41,10 @@ ul li::marker {
 
 #childcontainer {
     position: absolute;
-    width: 1000px;
+    width: 500px;
     height: 800px;
     top: 0;
-    left: 0;
+    left: 300px;
     bottom: 0;
     right: 0;
     margin: auto;
