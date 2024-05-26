@@ -25,13 +25,13 @@ ul li::marker {
 #parentcontainer {
     position: relative;
     width: 1500px;
-    height: 3000px;
+    height: 1000px;
 }
 
 #childcontainer {
     position: absolute;
     width: 1000px;
-    height: 2000px;
+    height: 800px;
     top: 0;
     left: 0;
     bottom: 0;
