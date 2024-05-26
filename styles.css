@@ -9,8 +9,12 @@ body.em {
     text-emphasis-style: "*";
 }
 
+h2 {
+    color: #ececec;
+}
+
 h3 {
-    color: rgb(197, 196, 196);
+    color: #ececec;
     text-emphasis-color: white;
 }
 
