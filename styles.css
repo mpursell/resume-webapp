@@ -21,11 +21,15 @@ ul li::marker {
 
 .certifictions {
     padding: 0px;
+    width: 2000px;
+    max-height: 100px;
+    overflow: hidden;
 }
 
 .certifictions_item {
     padding: 0px;
     width: 100px;
+    float: left;
 }
 
 .certifictions img {
