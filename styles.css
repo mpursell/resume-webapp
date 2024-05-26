@@ -19,7 +19,7 @@ ul li::marker {
     color: #00ff40
 }
 
-ul li.technical_skills {
+ul li::marker.technical_skills {
     color: #f77a06
 }
 
