@@ -24,8 +24,7 @@ ul li::marker {
 
 #parentcontainer {
     position: relative;
-    width: 1500px;
-    height: 1000px;
+
 }
 
 #childcontainer {
