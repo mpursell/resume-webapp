@@ -27,6 +27,7 @@ ul li::marker.technical_skills {
     width: 2000px;
     overflow: hidden;
     white-space: no-wrap;
+    margin-right: 0;
 }
 
 .certifications_item {
